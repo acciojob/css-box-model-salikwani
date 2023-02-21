@@ -1,2 +1,8 @@
-
+div {
+	border: solid black 2px;
+	margin:20px;
+}
+span {
+	padding-left:340px;
+}
 /* Your CSS Code here. */
