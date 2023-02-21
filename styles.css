@@ -1,8 +1,9 @@
 div {
-	border: solid black 2px;
-	margin:20px;
+	width: 300px;
+	padding: 50px;
+	background-color: lightblue;
+	border: solid blue 15px;
+	margin: 20px;
 }
-span {
-	padding-left:340px;
-}
+
 /* Your CSS Code here. */
